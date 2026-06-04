@@ -1,3 +1,6 @@
 nomes = ["Ana", "Carlos", "Maria", "João"]
-if "Maria" in nomes:
+x = input("Qual nome você deseja encontrar? ")
+if x in nomes:
     print("Nome encontrado!")
+else:
+    print("Nome não encontrado")
