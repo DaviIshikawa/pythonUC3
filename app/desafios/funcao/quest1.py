@@ -1,7 +1,7 @@
 def verificar_par(num):
     if num % 2 == 0:
-        print("O número é par.")
+        print("Par")
     else:
-        print("O número é ímpar.")
+        print("Ímpar")
 
-verificar_par(7)
+verificar_par(8)
